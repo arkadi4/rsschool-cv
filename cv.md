@@ -7,3 +7,4 @@
 6. Experience:
 7. Education
 8. English language:
+![my photo](D:\IMG_0001.jpg)
