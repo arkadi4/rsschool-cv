@@ -52,3 +52,7 @@ html {
 .section {
     width: 50%;
 }
+
+.profile__img {
+    width: 100px;
+}
