@@ -5,7 +5,7 @@
 4. Skills: noting IT connected
 5. Code examples:
 6. Experience:
-7. Education:
+7. Education: SB MPEU
 8. English language: B1
 
 
