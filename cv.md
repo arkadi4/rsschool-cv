@@ -4,7 +4,7 @@
 3. About me: old engeneer
 4. Skills: noting IT connected
 5. Code examples:
-6. Experience:
+6. Experience: stage #0 graduate
 7. Education: SB MPEU
 8. English language: B1
 
