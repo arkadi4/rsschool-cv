@@ -1,0 +1,29 @@
+span {
+    width: 10px;
+    margin: 100px 100px;
+    padding: 50px ;
+}
+
+.wrapper {
+    display: inline-grid;
+    width: 100%;
+    
+    grid-template-columns: rep(150px, 3);
+    align-items:center;
+    justify-items: right;
+    
+}
+.WWWwrapper {
+    display: inline-grid;
+    /* grid-column: 3 / span 2; */
+    /* grid-template-columns: 2rem 20% 150px 1fr; */
+    /* grid-template-columns: 500px 1fr 1fr; */
+    
+}
+
+.col {
+    grid-area: auto;
+    /* grid-row-end: span 2; */
+    /* grid-template-columns: minmax(200px, 1fr); */
+    /* grid-template-columns: minmax(200px, 1fr); */
+}
