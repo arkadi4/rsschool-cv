@@ -2,22 +2,26 @@
     font-family: NotoSans-Regular;
      src: url("assets/fonts/NotoSans-Regular.ttf");
    }
-.header {
+/* .header {
     width: 100%;
-}
+} */
 .body {
     font-family: NotoSans-Regular;
-    min-height: 100vh;
-    margin: 0;
-    padding: 0;
+    /* min-height: 100vh; */
+    margin: 0 auto;
+    /* padding: 0;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-between; */
 }
 * {
     box-sizing: border-box;
 }
-.main-header {
+
+section {
+    margin: 0 auto;
+}
+/* .main-header {
     border: 1px solid red;
 }
 .main-main {
@@ -25,13 +29,13 @@
 }
 .main-footer {
     border: 1px solid green;
-}
+} */
 
-.main-container {
-    max-width: 560px;
-}
+/* .main-container {
+    
+} */
 .container {
-    max-width: 1440px;
+    /* max-width: 1440px; */
     margin: 0 auto;
 }
 .nav-list {
@@ -57,6 +61,19 @@ html {
     width: 50%;
 }
 
+.section-title-h1 {
+    font-size: 32px;
+}
+
 .profile__img {
+    width: 100px;
+}
+
+.main-footer__container {
+    display: flex;
+    justify-content: end;
+}
+
+.footer__img {
     width: 100px;
 }
