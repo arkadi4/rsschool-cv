@@ -77,3 +77,8 @@ html {
 .footer__img {
     width: 100px;
 }
+
+.projects-links {
+    text-decoration: none;
+    color: black;
+}
